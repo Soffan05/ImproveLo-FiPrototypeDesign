@@ -1,0 +1,10 @@
+{
+  "description": "Centralized hub enabling secure user identification and login management to streamline access and enhance authentication efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
